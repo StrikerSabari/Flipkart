@@ -4,7 +4,7 @@ public class Ifcond {
 	
 	public void cond() {
 		
-	 int a=50;
+	 int a=5;
 	 
 	 if(a<30)
 	 {
